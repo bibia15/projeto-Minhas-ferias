@@ -10,8 +10,8 @@ body{
 }
 
 .cabecalho{
-    background-color: rgb(0,0,0);
-    color:blueviolet;
+    background-color: rgb(126, 223, 230);
+    color:white;
     display:flex;
     justify-content: space-around;
     align-items: center;
@@ -35,8 +35,8 @@ body{
 }
 
 .escola{
- background-image:linear-gradient( #ffcbdb,#f17ea1);
- color:black;
+ background-image:linear-gradient( #cbf2ff,#8a7ef1);
+ color:rgb(251, 244, 244);
  display:flex;
  justify-content: center;
  align-items: center;
@@ -80,6 +80,7 @@ body{
 }
 
 .rodape{
-
-
+ background-color: rgb(108, 156, 243);
+ color:black;
+ text-align: center;
 }
