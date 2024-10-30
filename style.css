@@ -24,7 +24,7 @@ body{
   border-radius: 50%;
 }
 
-.cabecalho-lista-item{
+.cabecalho-titulo{
   display: inline-block;
   margin: 0 16;
   font-size: 20px;
