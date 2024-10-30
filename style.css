@@ -10,8 +10,8 @@ body{
 }
 
 .cabecalho{
-    background-color: #109da7;
-    color:white;
+    background-color: #ce339f;
+    color:rgb(250, 243, 247);
     display:flex;
     justify-content: space-around;
     align-items: center;
@@ -35,7 +35,7 @@ body{
 }
 
 .escola{
- background-image:linear-gradient(  #043d50,#04496f );
+ background-image:linear-gradient(  #c70c88,#f80cc5 );
  color:rgb(251, 244, 244);
  display:flex;
  justify-content: center;
@@ -56,7 +56,7 @@ body{
   }
 
 .estudante-imagem{
-  width: 120px;
+  width: 200px;
   }
 
 .estudante-icone{
@@ -80,7 +80,7 @@ body{
 }
 
 .rodape{
- background-color: rgb(3, 50, 86);
- color:black;
+ background-color: rgb(224, 44, 134);
+ color:rgb(247, 240, 240);
  text-align: center;
 }
