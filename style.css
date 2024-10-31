@@ -10,7 +10,7 @@ body{
 }
 
 .cabecalho{
-    background-color: #ce339f;
+    background-color: #f5c6d5;
     color:rgb(250, 243, 247);
     display:flex;
     justify-content: space-around;
@@ -116,7 +116,7 @@ form label, form legend {
 .enviar {
 	width:40%;
 	padding: 15px 0;
-	background: orange;
+	background: rgb(255, 0, 128);
 	color: white;
 	font-weight: bold;
 	font-size: 18px;
@@ -127,7 +127,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background: darkorange;
+	background: rgb(255, 0, 140);
 	transform: scale(1.2);
 }
 
